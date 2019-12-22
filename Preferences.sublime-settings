@@ -17,9 +17,6 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"ApplySyntax",
-		"BracketHighlighter",
-		"GitGutter",
 		"Vintage"
 	],
 	"remember_open_files": false,

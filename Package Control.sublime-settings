@@ -2,9 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"ApplySyntax",
-		"BracketHighlighter",
-		"GitGutter"
 	],
 	"installed_packages":
 	[
