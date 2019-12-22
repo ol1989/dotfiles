@@ -7,7 +7,7 @@ git config --global user.email $email
 git config --global user.name $full_name
 
 git add .
-git commit --message "My identity for @lewagon in the gitconfig"
+git commit --message "Hey ol!"
 git push origin master
 
 git remote add upstream git@github.com:lazarnould/dotfiles.git
