@@ -10,4 +10,4 @@ git add .
 git commit --message "My identity for @lewagon in the gitconfig"
 git push origin master
 
-git remote add upstream git@github.com:lewagon/dotfiles.git
+git remote add upstream git@github.com:lazarnould/dotfiles.git
